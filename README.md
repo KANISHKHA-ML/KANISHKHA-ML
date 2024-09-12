@@ -19,7 +19,7 @@
 <h1 align="center">Hey Guys 👋</h1>
 <h3 align="left">👩‍💻  Let's have a quick review of Myself</h3>
 <p align="left">I'm Kanishkha M L<br><br>-📚  I’m pursuing my B.E CSE in V.S.B Engineering College.<br>- ⚡ In my free time I usually solve some Leetcode problems.<br>- 🔭 I'm very eager to learn new technologies related to AI tools.
-###
+
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
